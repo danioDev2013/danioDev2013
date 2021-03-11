@@ -8,3 +8,4 @@ I'm currently enrolled in a Full-Stack Web Development Bootcamp at the Universit
 
 [![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorley1993&show_icons=true&theme=radical)](https://github.com/dorley1993/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorley1993&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
