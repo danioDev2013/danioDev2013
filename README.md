@@ -1,8 +1,6 @@
 
 ### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**dorley1993/dorley1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Danielle, I'm studying Full Stack Web Development. 
 
