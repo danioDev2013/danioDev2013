@@ -11,6 +11,6 @@ I'm currently enrolled in a Full-Stack Web Development Bootcamp at the Universit
 [![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorley1993&show_icons=true&theme=midnight-purple)](https://github.com/dorley1993/github-readme-stats)
 
 Contact Me:
-  Email: danio.2013@outlook.com
-  LinkedIn: https://www.linkedin.com/in/danielle-orley/
+ * Email: danio.2013@outlook.com <br>
+ * LinkedIn: https://www.linkedin.com/in/danielle-orley/
  
